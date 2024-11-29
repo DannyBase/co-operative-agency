@@ -1,0 +1,76 @@
+[
+
+    {
+        "fromtext": "Gpt",
+        "from": "/images/icon/chat-gpt.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-1.jpg",
+        "authorname": "Marry Jane",
+        "authordesig": "CEO"
+    },
+    {
+        "fromtext": "Samsung",
+        "from": "/images/icon/samsung.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-2.jpg",
+        "authorname": "Savannah Nguyen",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Slack",
+        "from": "/images/icon/slack.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-3.jpg",
+        "authorname": "Floyd Miles",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Gpt",
+        "from": "/images/icon/chat-gpt.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-1.jpg",
+        "authorname": "Darrell Steward",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Samsung",
+        "from": "/images/icon/samsung.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-2.jpg",
+        "authorname": "Savannah Nguyen",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Slack",
+        "from": "/images/icon/slack.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-3.jpg",
+        "authorname": "Floyd Miles",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Gpt",
+        "from": "/images/icon/chat-gpt.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-1.jpg",
+        "authorname": "Darrell Steward",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Samsung",
+        "from": "/images/icon/samsung.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-2.jpg",
+        "authorname": "Savannah Nguyen",
+        "authordesig": "Executive Chairman"
+    },
+    {
+        "fromtext": "Slack",
+        "from": "/images/icon/slack.png",
+        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "authorimg": "/images/testimonial/testimonial-3.jpg",
+        "authorname": "Floyd Miles",
+        "authordesig": "Executive Chairman"
+    }
+
+]

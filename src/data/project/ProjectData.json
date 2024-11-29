@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image": "/images/project/project-1.jpg",
+        "title": "BusinessCraft",
+        "category": ["Consulting", "Brand Strategy", "Market Research"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 2,
+        "image": "/images/project/project-2.jpg",
+        "title": "CoreVision",
+        "category": ["E-commerce Solutions", "Brand Development", "Business Growth"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 3,
+        "image": "/images/project/project-3.jpg",
+        "title": "PrimeEdge",
+        "category": ["Business Solutions", "Digital Transformation", "Customer Experience"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 4,
+        "image": "/images/project/project-4.jpg",
+        "title": "ElevatePro",
+        "category": ["Corporate Strategy", "Project Management", "Branding"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 5,
+        "image": "/images/project/project-5.jpg",
+        "title": "Strategic Web",
+        "category": ["Consulting", "Business Strategy", "Digital Solutions"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 6,
+        "image": "/images/project/project-6.jpg",
+        "title": "Innovative Interfaces",
+        "category": ["Business Development", "User Engagement", "Growth Strategy"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 7,
+        "image": "/images/project/project-7.jpg",
+        "title": "ProSite Solutions",
+        "category": ["Brand Management", "Marketing Strategy", "Customer Retention"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    },
+    {
+        "id": 8,
+        "image": "/images/project/project-8.jpg",
+        "title": "Blueprint Hub",
+        "category": ["Corporate Branding", "Web Solutions", "Business Strategy"],
+        "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
+        "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
+    }
+]
